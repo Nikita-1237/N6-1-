@@ -1,0 +1,67 @@
+<link rel = "stylesheet" href = "style.css">
+<link rel = "stylesheet" type = "text/scc" href="slick/slick.css">
+<link rel = "stylesheet" type = "text/scc" href="slick-theme/slick.css">
+
+<head>
+<link rel="apple-touch-icon" sizer='180x180" href="favicon-180x180.png">
+<link rel="icon" type-"image/png" sizer='32x32" href="favicon-32x32.png">
+<link rel="icon" type-"image/png" sizer='16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmenifest">
+<title>LEGO Kids</title>
+<link rel = "stylesheet" href = "style.css">
+<link rel = "stylesheet" type = "text/scc" href="slick/slick.css">
+<link rel = "stylesheet" type = "text/scc" href="slick-theme/slick.css">
+</head>
+
+<!--HEADER-->
+<header>
+  <img scr=https://i.postimg.cc/bJptxPg6/trasformed.png" width="290"
+dreggable="true" alt="Logo">
+  <nav id="menu1">
+       <ul>
+           <li><a href="index.html">Главнвя</a></li>
+           <li><a href="#">О нас</a></li>
+           <li><a href="#">Наборы LEGO</a></li>
+                <ul>
+                   <li><a href="post.html">Соник супер-ежик</a></li>
+                   <li><a href="#">Звездные войны</a></li>
+                   <li><a href="#">NIJAGO</a>
+                 </ul>
+            <li>
+        </ul>
+   </nav>
+</header>
+
+<!--MAIN-->
+<main>
+ <div class="carousel">
+    <div class="carousel-element>
+ 
+    </div>
+    <div class="carousel-element>
+ 
+    </div>
+    <div class="carousel-element>
+
+
+<div class="post"
+    <img decoding="asinc" height="230
+scr="https://i.posting.cc/QxfCP5bJ/2024-06-22-43-17.png" alt="Card"
+   <center
+     <small>Copiright &copy
+    </center>
+</div>
+<footer>
+
+<script type="text/javascript"> scr="https://code.com/jqery-1.11.0.min.js">
+<script type="text/javascript"> scr="https://code.com/jqery-migrate-1.2.1.min.js>
+<script type="text/javascript"> scr="slick/slick.min.js">
+<script type="text/javascript"> scr:"js/script.js"></script>              
+
+
+
+
+
+
+
+
